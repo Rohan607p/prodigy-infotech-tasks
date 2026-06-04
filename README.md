@@ -43,7 +43,21 @@ python task05_accident_analysis.py
 ---
 
 ## 📊 Output Previews
-*(Add your output images here after uploading them)*
+
+### Task 01 — Population Distribution
+![Task 01](task01_output.png)
+
+### Task 02 — Titanic EDA
+![Task 02](task02_output.png)
+
+### Task 03 — Decision Tree Classifier
+![Task 03](task03_output.png)
+
+### Task 04 — Sentiment Analysis
+![Task 04](task04_output.png)
+
+### Task 05 — Traffic Accident Analysis
+![Task 05](task05_output.png)
 
 ---
 
