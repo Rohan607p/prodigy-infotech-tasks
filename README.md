@@ -1,4 +1,4 @@
-# 🔬 Prodigy InfoTech — Data Science Internship
+# 🔬 Prodigy InfoTech — Data Science Internshi
 
 ![Intern](https://img.shields.io/badge/Internship-Prodigy%20InfoTech-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-brightgreen)
