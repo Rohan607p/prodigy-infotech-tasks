@@ -6,7 +6,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 np.random.seed(42)
-n = 
+n = 2000
 
 states = ['CA','TX','FL','NY','PA','OH','IL','GA','NC','MI','VA','NJ','WA','AZ','MA','TN','IN','MD','MO','CO']
 state_weights = [0.15,0.12,0.09,0.08,0.06,0.05,0.05,0.04,0.04,0.04,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.02,0.02]
