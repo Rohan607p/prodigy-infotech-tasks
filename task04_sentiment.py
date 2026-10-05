@@ -9,7 +9,7 @@ from textblob import TextBlob
 import warnings
 warnings.filterwarnings('ignore')
 
-
+np.random.seed(42)
 
 
 positive_tweets = [
