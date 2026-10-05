@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
-
+warnings.filterwarnings('ignore')
 
 np.random.seed(42)
 n = 2000
