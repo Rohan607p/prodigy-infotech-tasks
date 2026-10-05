@@ -10,7 +10,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-np.random.seed(42)
+
 
 positive_tweets = [
     "I absolutely love this product! Best purchase ever!",
