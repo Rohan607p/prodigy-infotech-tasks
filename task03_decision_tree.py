@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 
 
 np.random.seed(42)
-n = 1000
+n = 
 
 age        = np.random.randint(18, 70, n)
 job        = np.random.choice(['admin','blue-collar','entrepreneur','housemaid',
