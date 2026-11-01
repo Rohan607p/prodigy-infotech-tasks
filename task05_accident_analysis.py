@@ -5,7 +5,7 @@ import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
 
-np.random.seed()
+np.random.seed(42)
 n = 2000
 
 states = ['CA','TX','FL','NY','PA','OH','IL','GA','NC','MI','VA','NJ','WA','AZ','MA','TN','IN','MD','MO','CO']
